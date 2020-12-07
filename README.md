@@ -29,6 +29,9 @@ Using the mouse user can make the planets to rotate and revolve round the Sun an
 Comet to revolve round the Sun.
 * Left Button: Rotates and revolves the planets and Comet in anticlockwise direction.
 * Right Button: Rotates and revolves the planets and Comet in clockwise direction.
+
+# SnapShot
+![Screenshot from 2020-12-07 16-26-00](https://user-images.githubusercontent.com/42781233/101347834-ac3cd700-38b0-11eb-8217-fcbf4cb03a07.png)
 # Scope
 It is developed in ECLIPSE. It has been implemented on UBUNTU platform. The
 3-D graphics package designed here provides an interface for the users for handling the display
