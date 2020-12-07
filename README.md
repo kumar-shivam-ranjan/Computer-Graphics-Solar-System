@@ -38,8 +38,8 @@ It is developed in ECLIPSE. It has been implemented on UBUNTU platform. The
 and manipulation of Celestial Exploratory. The Keyboard is the main input device used.
 
 # Contributors
-Kumar Shivam Ranjan (18075031)
-Neha Kumari (18074012)
+* Kumar Shivam Ranjan (18075031)
+* Neha Kumari (18074012)
 
 # To Know more about me and my work, do visit :
 https://ksrrock.github.io/
