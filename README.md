@@ -22,7 +22,13 @@ round the Sun. The stars are made to twinkle and the Comet is made to revolve ro
 rotating Sun with a Comet revolution and Stars twinkle.
 * Pressing the key A revolves all the planets and comet and the key a rotates all the planets
 around the rotating Sun with Stars twinkling in the background.
+* The key b is used to make the stars twinkle and c for the revolution of the Comet.
 
+# Mouse Interface
+Using the mouse user can make the planets to rotate and revolve round the Sun and
+Comet to revolve round the Sun.
+* Left Button: Rotates and revolves the planets and Comet in anticlockwise direction.
+* Right Button: Rotates and revolves the planets and Comet in clockwise direction.
 # Scope
 It is developed in ECLIPSE. It has been implemented on UBUNTU platform. The
 3-D graphics package designed here provides an interface for the users for handling the display
