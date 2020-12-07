@@ -36,3 +36,10 @@ Comet to revolve round the Sun.
 It is developed in ECLIPSE. It has been implemented on UBUNTU platform. The
 3-D graphics package designed here provides an interface for the users for handling the display
 and manipulation of Celestial Exploratory. The Keyboard is the main input device used.
+
+# Contributors
+Kumar Shivam Ranjan (18075031)
+Neha Kumari (18074012)
+
+# To Know more about me and my work, do visit :
+ksrrock.github.io
