@@ -42,4 +42,4 @@ Kumar Shivam Ranjan (18075031)
 Neha Kumari (18074012)
 
 # To Know more about me and my work, do visit :
-ksrrock.github.io
+https://ksrrock.github.io/
